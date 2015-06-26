@@ -31,7 +31,7 @@
           <?php the_content("Leggi l'articolo..."); ?>
         </div>
       </article>
-      <!-- Fine del blocco 2 2 -->
+      <!-- Fine del blocco -->
       <?php endwhile; ?>
       <?php endif; ?>
     </div>
